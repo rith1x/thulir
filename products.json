@@ -1,0 +1,104 @@
+[
+    {
+        "name": "Detergent Powder",
+        "title": "Sample Course ",
+        "id": "T01",
+        "link": "https://placehold.jp/b8f1ff/ffffff/150x150.png?text=Detergent+Powder+1Kg",
+        "price": "90",
+        "mrp": "120",
+        "review":"5.0",
+        "qty":"1Kg",
+        "features": ["Powerful stain removal: Effectively removes tough stains from clothes.","High foaming action: Produces rich lather for better cleaning results.","Gentle on fabric: Does not damage or fade the colors of your clothes.","Fresh fragrance: Leaves a pleasant scent on your laundry.","Suitable for all washing machines: Works well with both top-load and front-load machines."],
+        "description": "Powerful and effective, our detergent powder removes tough stains and leaves your clothes fresh and clean."
+    },{
+        "name": "Detergent Liquid",
+        "title": "Sample Course ",
+        "id": "T02",
+        "link": "https://placehold.jp/b8f1ff/ffffff/150x150.png?text=Detergent+Liquid+1L",
+        "price": "120",
+        "mrp": "149",
+        "review":"5.0",
+        "qty":"1L",
+        "features": ["Advanced formula: Contains powerful ingredients for deep cleaning.","Easy to dissolve: Quickly dissolves in water, ensuring no residue on clothes.","Versatile usage: Can be used for hand washing or in washing machines.","Gentle on hands: Mild on skin, preventing dryness or irritation.","Effective stain removal: Tackles stubborn stains, including grease and oil."],
+        "description": "Our versatile detergent liquid delivers superior cleaning results while preserving the colors and texture of your fabrics."
+    },{
+        "name": "Dish Wash Gel",
+        "title": "Sample Course ",
+        "id": "T03",
+        "link": "https://placehold.jp/b8f1ff/ffffff/150x150.png?text=Dish+Wash+Gel",
+        "price": "35",
+        "mrp": "50",
+        "review":"5.0",
+        "qty":"250ml",
+        "features":["Grease-cutting power: Easily removes tough grease and food residues from dishes.","Fast-acting formula: Provides efficient cleaning in less time.","Gentle on hands: Keeps your hands soft and smooth even after prolonged use.","Refreshing fragrance: Leaves your dishes smelling fresh and clean.","Long-lasting: A little goes a long way, making it cost-effective."],
+        "description": "Cut through grease and grime effortlessly with our dish wash gel, leaving your dishes sparkling clean and residue-free."
+    },{
+        "name": "Fabric Conditioner",
+        "title": "Sample Course ",
+        "id": "T04",
+        "link": "https://placehold.jp/b8f1ff/ffffff/150x150.png?text=Fabric+Conditioner",
+        "price": "70",
+        "mrp": "100",
+        "review":"5.0",
+        "qty":"500ml",
+        "features":["Softens and freshens clothes: Makes fabric feel silky and pleasant to touch.","Reduces static cling: Minimizes static electricity, preventing clothes from sticking to each other.","Easier ironing: Smoothens out wrinkles, making ironing a breeze.","Long-lasting fragrance: Leaves a delightful scent on your garments.","Adds fabric protection: Helps preserve the quality and lifespan of your clothes."],
+        "description": "Pamper your clothes with our fabric conditioner, providing a soft and long-lasting fragrance while keeping them irresistibly soft."
+    },{
+        "name": "Surface Cleaner",
+        "title": "Sample Course ",
+        "id": "T05",
+        "link": "https://placehold.jp/b8f1ff/ffffff/150x150.png?text=Surface+Cleaner",
+        "price": "60",
+        "mrp": "80",
+        "review":"5.0",
+        "qty":"500ml",
+        "features":["Multi-surface compatibility: Suitable for various surfaces like countertops, glass, tiles, and more.","Powerful cleaning action: Effectively removes dirt, grime, and stains.","Quick-drying formula: Leaves surfaces clean and streak-free.","Antibacterial properties: Kills germs and prevents the spread of harmful bacteria.","Easy to use: Convenient spray bottle for effortless application."],
+        "description": "Our surface cleaner tackles dirt and germs on various surfaces, leaving behind a spotless shine and a refreshing scent."
+    },{
+        "name": "All-in-One Cleaner",
+        "title": "Sample Course ",
+        "id": "T06",
+        "link": "https://placehold.jp/b8f1ff/ffffff/150x150.png?text=All-in-One+Cleaner",
+        "price": "60",
+        "mrp": "80",
+        "review":"5.0",
+        "qty":"500ml",
+        "features":["Versatile cleaning solution: Can be used on multiple surfaces and household items.","All-round performance: Effectively cleans, disinfects, and deodorizes.","Time-saving: Eliminates the need for multiple cleaning products.","Removes tough stains: Tackles various types of stains, from grease to wine spills.","Fresh fragrance: Leaves a pleasant scent after cleaning."],
+        "description": "Simplify your cleaning routine with our all-in-one cleaner, capable of tackling multiple surfaces and providing exceptional results."
+    },{
+        "name": "Toilet Bowl Cleaner",
+        "title": "Sample Course ",
+        "id": "T07",
+        "link": "https://placehold.jp/b8f1ff/ffffff/150x150.png?text=Toilet+Bowl+Cleaner",
+        "price": "75",
+        "mrp": "90",
+        "review":"5.0",
+        "qty":"500ml",
+        "features":["Powerful disinfection: Eliminates germs, bacteria, and toilet bowl stains.","Extended cling time: Adheres to the bowl's surface, allowing the cleaner to work effectively.","Freshens the toilet: Leaves a clean and pleasant fragrance in the bathroom.","Easy to use: Specially designed applicator for convenient application under the rim.","Prevents limescale buildup: Helps to keep the toilet bowl clean and free from mineral deposits."],
+        "description": "Maintain a hygienic bathroom with our toilet bowl cleaner, designed to remove stains, eliminate odors, and leave your toilet sparkling clean."
+    },{
+        "name": "Phenyl",
+        "title": "Sample Course ",
+        "id": "T08",
+        "link": "https://placehold.jp/b8f1ff/ffffff/150x150.png?text=Phenyl",
+        "price": "40",
+        "mrp": "60",
+        "review":"5.0",
+        "qty":"1L",
+        "features":["Strong and effective: Provides powerful cleaning action on floors and surfaces.","Eliminates foul odors: Helps to neutralize unpleasant smells in the environment.","Kills germs and bacteria: Provides a hygienic and clean living space.","Concentrated formula: Requires less product for effective cleaning.","Long-lasting effect: Provides a lasting freshness and cleanliness."],
+        "description": "Our powerful phenyl disinfects and deodorizes floors, providing a germ-free and fresh-smelling environment in your home or workspace."
+    },{
+        "name": "Soap Oil",
+        "title": "Sample Course ",
+        "id": "T09",
+        "link": "https://placehold.jp/b8f1ff/ffffff/150x150.png?text=Soap+Oil",
+        "price": "35",
+        "mrp": "60",
+        "review":"5.0",
+        "qty":"1L",
+        "features":["Nourishing and moisturizing: Soap oil contains ingredients that help nourish and moisturize the skin, keeping it soft and hydrated.","Gentle and mild: Suitable for all skin types, including sensitive skin, as it is formulated to be gentle and non-irritating.","Deep cleansing: Soap oil effectively removes dirt, oil, and impurities from the skin, leaving it clean and refreshed.","Versatile usage: Soap oil can be used for various purposes, such as body cleansing, shaving, or as a makeup remover.","Fragrance options: Soap oil is available in a range of delightful fragrances, providing a pleasant and enjoyable bathing experience."],
+        "description": "Indulge in the luxurious lather and nourishing properties of our soap oil, leaving your skin feeling moisturized, soft, and delicately scented."
+    }
+
+
+]
